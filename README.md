@@ -4,7 +4,8 @@ This is a collection of some of the talks I have given recently at conferences a
 ---
 ## [Testing for CRAN: Docker-Based r-devel Testing](https://docs.google.com/presentation/d/1vLjVeKPAdRfESF3jHoXp84Ff0KoMtEMm00RZ24_6SWM/edit?usp=sharing)
 **Date:** May 30th, 2020    
-**Event:** [satRday Chicago 2020 Conference](https://chicago2020.satrdays.org/)
+**Event:** [satRday Chicago 2020 Conference](https://chicago2020.satrdays.org/)    
+**Recording:** [YouTube (15 minutes)](https://www.youtube.com/watch?v=xA7l7N2ktFk&feature=youtu.be&start=8630&end=9794)
 
 Testing your package before uploading to CRAN can be a bear! You’ve just done all this great work to polish and test your package on your R setup and now (as CRAN requires) you need to test it all again on the latest development version of R, called r-devel. Skipping this is tempting but often a more time consuming battle than testing and iterating locally (also, ethics, amiright). In this talk, I will demonstrate a process to build your own CRAN compliant testing process from publicly maintained docker images in a time saving and repeatable fashion. It’s the same process used to prepare pkgnet submissions. The step-by-step is available on the CONTRIBUTING page in the github repository. Some knowledge of docker and/or CRAN submission process would be helpful but is not a must have.
 
