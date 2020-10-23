@@ -1,5 +1,12 @@
 # Brian Burns Talks
-This is a collection of some of the talks I have given recently at conferences and meetups.  
+This is a collection of some of the talks that I have given at conferences,  meetups, and workshops.  
+
+---
+## [The Data Science/ML Case Study: Format Overview, Advice and Examples](https://docs.google.com/presentation/d/1yOmuFncPaeymOX5kAjg40w91XDkyxjbDTS2MqrosVis/edit?usp=sharing)
+**Date:** October 23rd, 2020    
+**Event:** Georgia Tech. M.S. in Analytics Career Workshop: Technical Interviewing
+
+This presentation focuses on the case study (a.k.a. problem solving) interview format for Data Scientists, which was one of a few interview formats covered at the workshop with co-speaker Dr. Beverly Wright.  **The focus is to prepare aspiring data scientists for this type of interview and offer advice from my years on the other side of the interview table.**  
 
 ---
 ## [Testing for CRAN: Docker-Based r-devel Testing](https://docs.google.com/presentation/d/1vLjVeKPAdRfESF3jHoXp84Ff0KoMtEMm00RZ24_6SWM/edit?usp=sharing)
