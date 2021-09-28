@@ -1,6 +1,12 @@
 # Brian Burns Talks
 This is a collection of some of the talks that I have given at conferences,  meetups, and workshops.  
 
+## [Representation Learning Driven Outfit Creation: Assisting Styling to Scale](https://drive.google.com/file/d/1O7dxjmkjOfvyrUzcDqI19UIl8R0-In4m/view?usp=sharing)
+**Date:** August 25th, 2021  
+**Event:** [Data Science Salon: Applying AI & Machine Learning to Retail and E-commerce](https://www.datascience.salon/retail-and-ecommerce/)    
+
+Nordstrom Digital Stylists create outfits to help our customers look good and feel great. They are asked to create outfits for several reasons: to serve an individual customer, to contribute to a thematic curation, to showcase an individual product, and more! During peak events with lots of new inventory such as the holidays and large sales, demand for their expertise can be enormous. In service of helping our stylists, we have created a machine learning based outfit creation/completion service leveraging Nordstrom’s extensive dataset of expertly created outfits and a hybrid graph based and representation learning approach. Given an initial item or set of items, we create outfits out of available inventory that are difficult to decern from those created by stylists, even by our stylists themselves. Join this talk to hear more about Nordstrom’s approach and results from their recent Anniversary Sale.
+
 ---
 ## [The Data Science/ML Case Study: Format Overview, Advice and Examples](https://docs.google.com/presentation/d/1yOmuFncPaeymOX5kAjg40w91XDkyxjbDTS2MqrosVis/edit?usp=sharing)
 **Date:** October 23rd, 2020    
