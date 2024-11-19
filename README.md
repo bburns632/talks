@@ -1,6 +1,13 @@
 # Brian Burns Talks
 This is a collection of some of the talks that I have given at conferences,  meetups, and workshops.  
 
+## [AI-Assisted Outfitting](https://drive.google.com/file/d/1eVnvv5di0aQyhy6CopKf3okkW2I3r0xn/view?usp=sharing)
+**Date:** November 11th, 2024    
+**Event:** [Georgia Tech MSA Professional Development Summit](https://www.analytics.gatech.edu/10th-anniversary/professional-development-summit)    
+
+A brief update on AI-based processes to assist in creating outfits for Nordstrom Digital Services.
+
+---
 ## [Representation Learning Driven Outfit Creation: Assisting Styling to Scale](https://drive.google.com/file/d/1O7dxjmkjOfvyrUzcDqI19UIl8R0-In4m/view?usp=sharing)
 **Date:** August 25th, 2021  
 **Event:** [Data Science Salon: Applying AI & Machine Learning to Retail and E-commerce](https://www.datascience.salon/retail-and-ecommerce/)    
